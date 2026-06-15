@@ -1,5 +1,9 @@
 node_modules/
 frontend-vercel/node_modules/
 frontend-vercel/dist/
+frontend-vercel/package-lock.json
 backend-laravel/vendor/
+backend-laravel-api/vendor/
 .env
+*.log
+.DS_Store
