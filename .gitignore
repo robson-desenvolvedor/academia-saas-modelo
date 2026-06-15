@@ -1,0 +1,5 @@
+node_modules/
+frontend-vercel/node_modules/
+frontend-vercel/dist/
+backend-laravel/vendor/
+.env
