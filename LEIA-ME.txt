@@ -1,0 +1,21 @@
+PATCH UI V2 - Sidebar recolhivel e fonte de sistema
+
+Como aplicar:
+1. Extraia este ZIP.
+2. Copie a pasta frontend-vercel por cima da pasta frontend-vercel do projeto atual.
+3. Confirme para substituir os arquivos.
+4. Rode novamente:
+
+cd C:\laragon\www\academia-saas-modelo\frontend-vercel
+npm run dev
+
+O que foi ajustado:
+- Barra lateral recolhivel no desktop.
+- Botao para recolher/expandir no canto da sidebar.
+- Fonte trocada para fonte nativa do sistema.
+- Pesos reduzidos: titulos, botoes, badges e textos ficaram menos pesados.
+- Visual menos arredondado e mais administrativo.
+
+Arquivos alterados:
+- frontend-vercel/src/App.tsx
+- frontend-vercel/src/styles.css

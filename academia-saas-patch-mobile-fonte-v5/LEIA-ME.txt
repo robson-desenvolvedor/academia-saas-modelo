@@ -1,0 +1,19 @@
+PATCH MOBILE + FONTE v5
+
+O que muda:
+- Corrige telas cortando no mobile.
+- Tabelas viram cards no celular.
+- Fonte trocada para Segoe UI/Roboto/Arial com peso mais leve.
+- Reduz bold e melhora leitura.
+- Painéis mobile ficam mais compactos.
+
+Como aplicar:
+1. Extraia este ZIP.
+2. Copie a pasta frontend-vercel por cima da pasta frontend-vercel do seu projeto atual.
+3. Confirme a substituição dos arquivos.
+4. Rode:
+
+cd C:\laragon\www\academia-saas-modelo\frontend-vercel
+npm run dev
+
+Se precisar limpar os dados antigos da demo, use o botão "Resetar demo" na tela ou limpe o localStorage do navegador.
